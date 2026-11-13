@@ -7,3 +7,4 @@ I'm BCA student|Anand,India
 currently doing Internship in digol technologies
 learning web Development & Python
 Always lerning somethimg new
+Currently Intern @ [digol technologies]
